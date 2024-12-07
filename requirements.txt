@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+mediapipe
+transformers
+torch
+numpy
+opencv-python-headless
